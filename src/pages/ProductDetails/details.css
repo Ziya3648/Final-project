@@ -1,0 +1,14 @@
+.swiper-slide{
+    display: flex;
+    justify-content: center;
+}
+.swiper-slide img{
+    height: 350px;
+    width: 300px;
+}
+.checked {
+    color: orange;
+}
+.fa-star{
+    margin-right: 3px;
+}

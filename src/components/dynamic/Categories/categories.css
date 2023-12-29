@@ -1,0 +1,18 @@
+.categoryList{
+    overflow: hidden;
+    -webkit-transition: max-height 0.7s ease-in-out;
+    transition: max-height 0.7s ease-in-out;
+}
+.show-more{
+    list-style: none;
+    background-color: #dedede;
+    padding: 0.5rem 1rem;
+}
+.show-more span{
+    float: right;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
